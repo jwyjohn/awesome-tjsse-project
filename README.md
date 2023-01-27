@@ -75,6 +75,10 @@
 - [potassiummmm/Memory-Management](https://github.com/potassiummmm/Memory-Management)
 ### 数据库
 
+#### 未归类
+- [TeachMeDB/you-are-what-you-eat](https://github.com/orgs/TeachMeDB/repositories)
+
+
 ### 编译原理
 
 #### 2021 Autumn 420343-编译原理
@@ -83,13 +87,15 @@
 
 ### 设计模式
 
+#### 2022 Autumn 420407-软件设计模式
+- [TeachMeDesignPattern/Slow6502](https://github.com/TeachMeDesignPattern/report_latex)
+#### 2021 Autumn 420407-软件设计模式
+- [PlusOneZ/CanFactory](https://github.com/PlusOneZ/CanFactory)
 ### JavaEE
 
 #### 未归类
 - [Tongji-Rubbish/JavaEE_Project](https://github.com/Tongji-Rubbish/JavaEE_Project)
 
-#### 2021 Autumn 420407-软件设计模式
-- [PlusOneZ/CanFactory](https://github.com/PlusOneZ/CanFactory)
 ### 大型机
 
 #### 2022 Spring 420406-主机软件与管理
