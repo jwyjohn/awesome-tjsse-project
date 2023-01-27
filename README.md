@@ -28,10 +28,12 @@
 
 #### 未归类
 - [vegetable-yx/soul-knight](https://github.com/vegetable-yx/soul-knight)
+- [Spicy-Chicken-in-OOP2020/Soul-Knight](https://github.com/Spicy-Chicken-in-OOP2020/Soul-Knight)
 - [li-letian/Monopoly](https://github.com/li-letian/Monopoly)
 - [li-letian/Draughts](https://github.com/li-letian/Draughts)
 - [renjiedai/You-Jump-I-Jump](https://github.com/renjiedai/You-Jump-I-Jump)
 - [MoyusiteruIori/Draughts](https://github.com/MoyusiteruIori/Draughts)
+- [jwyjohn/42042002_OOP_Project](https://github.com/jwyjohn/42042002_OOP_Project)
 - [raetselhaftesKEN/SETerminal](https://github.com/raetselhaftesKEN/SETerminal)
 - [ZhichenRen/cocos2d-xGameDesign](https://github.com/ZhichenRen/cocos2d-xGameDesign)
 
@@ -46,6 +48,7 @@
 - [PlusOneZ/DataStructureCourseDesign](https://github.com/PlusOneZ/DataStructureCourseDesign)
 - [yilish/TJSSE_DataStructure_Design](https://github.com/yilish/TJSSE_DataStructure_Design)
 - [potassiummmm/DataStructure](https://github.com/potassiummmm/DataStructure)
+- [muyi-TJ/2020-Autumn-DataStructure-Design](https://github.com/muyi-TJ/2020-Autumn-DataStructure-Design)
 
 
 ### SAD
@@ -77,6 +80,7 @@
 
 #### 未归类
 - [TeachMeDB/you-are-what-you-eat](https://github.com/orgs/TeachMeDB/repositories)
+- [muyi-TJ/DataBaseProject-Back-End](https://github.com/muyi-TJ/DataBaseProject-Back-End)
 
 
 ### 编译原理
@@ -84,6 +88,7 @@
 #### 2021 Autumn 420343-编译原理
 - [42034301-5](https://github.com/42034301-5)
 - [wangwangwang23333/Compile-Homework](https://github.com/wangwangwang23333/Compile-Homework)
+- [muyi-TJ/Complien-Principle-LL1](https://github.com/muyi-TJ/Complien-Principle-LL1)
 
 ### 设计模式
 
@@ -91,6 +96,10 @@
 - [TeachMeDesignPattern/Slow6502](https://github.com/TeachMeDesignPattern/report_latex)
 #### 2021 Autumn 420407-软件设计模式
 - [PlusOneZ/CanFactory](https://github.com/PlusOneZ/CanFactory)
+- [muyi-TJ/2021Autumn-DesignPattern](https://github.com/muyi-TJ/2021Autumn-DesignPattern)
+#### 未归类
+- [Kerr0220/Charlie-Chocolate-Factory](https://github.com/Kerr0220/Charlie-Chocolate-Factory)
+- [TongjiSSERollMan/Design_Pattern_2020](https://github.com/TongjiSSERollMan/Design_Pattern_2020)
 ### JavaEE
 
 #### 未归类
