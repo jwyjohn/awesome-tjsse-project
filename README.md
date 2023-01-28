@@ -23,6 +23,11 @@
 
 #### 未归类
 - [Lu-Boyan/2021-Shenjian_C](https://github.com/Lu-Boyan/2021-Shenjian_C)
+- [APTXOUS/little_homework](https://github.com/APTXOUS/little_homework)
+- [Ultrasty/SJ-Homework-VS-Solution](https://github.com/Ultrasty/SJ-Homework-VS-Solution)
+- [rosmarinocc/CppBigHW](https://github.com/rosmarinocc/CppBigHW)
+- [NanmorX/10108002](https://github.com/NanmorX/10108002)
+- [SunshineTeen/SJ-programming-backup](https://github.com/SunshineTeen/SJ-programming-backup)
 
 ### 面向对象
 
@@ -36,6 +41,7 @@
 - [jwyjohn/42042002_OOP_Project](https://github.com/jwyjohn/42042002_OOP_Project)
 - [raetselhaftesKEN/SETerminal](https://github.com/raetselhaftesKEN/SETerminal)
 - [ZhichenRen/cocos2d-xGameDesign](https://github.com/ZhichenRen/cocos2d-xGameDesign)
+- [Wizard23333/SoulKnightTeamProject](https://github.com/Wizard23333/SoulKnightTeamProject)
 
 ### 数据结构
 
@@ -49,6 +55,7 @@
 - [yilish/TJSSE_DataStructure_Design](https://github.com/yilish/TJSSE_DataStructure_Design)
 - [potassiummmm/DataStructure](https://github.com/potassiummmm/DataStructure)
 - [muyi-TJ/2020-Autumn-DataStructure-Design](https://github.com/muyi-TJ/2020-Autumn-DataStructure-Design)
+- [kefan-zheng/Data-Structure](https://github.com/kefan-zheng/Data-Structure)
 
 
 ### SAD
@@ -59,6 +66,7 @@
 #### 2021 Spring 420367-系统分析与设计
 - [wangwangwang23333/System-Analysis-Design](https://github.com/wangwangwang23333/System-Analysis-Design)
 - [PlusOneZ/SAD](https://github.com/PlusOneZ/SAD)
+- [kefan-zheng/SAD](https://github.com/kefan-zheng/SAD)
 
 ### 操作系统
 
@@ -70,18 +78,28 @@
 #### 2020 Summer 420287-操作系统课程设计
 - [Kerr0220/YeezyOS](https://github.com/Kerr0220/YeezyOS)
 - [PlusOneZ/MIT-S6.S081-Lab-OSCD](https://github.com/PlusOneZ/MIT-S6.S081-Lab-OSCD)
+- [Wizard23333/UpUpOS](https://github.com/Wizard23333/UpUpOS)
+- [kefan-zheng/LightningOS](https://github.com/kefan-zheng/LightningOS)
 
 #### 2020 Spring 420287-操作系统
 - [Kerr0220/Operating-System](https://github.com/Kerr0220/Operating-System)
 - [Major-333/OS_course_project](https://github.com/Major-333/OS_course_project)
 - [AnJT/Operating-system](https://github.com/AnJT/Operating-system)
 - [potassiummmm/Memory-Management](https://github.com/potassiummmm/Memory-Management)
+- [Wizard23333/OS_Memory_Management](https://github.com/Wizard23333/OS_Memory_Management)
+- [Wizard23333/OS_Elevator_Stimulater](https://github.com/Wizard23333/OS_Elevator_Stimulater)
+- [kefan-zheng/OS](https://github.com/kefan-zheng/OS)
 ### 数据库
 
 #### 未归类
 - [TeachMeDB/you-are-what-you-eat](https://github.com/orgs/TeachMeDB/repositories)
 - [muyi-TJ/DataBaseProject-Back-End](https://github.com/muyi-TJ/DataBaseProject-Back-End)
+- [Wizard23333/DB_BestHotel](https://github.com/Wizard23333/DB_BestHotel)
 
+### 数仓
+
+#### 未归类
+- [Wizard23333/DataWarehouse](https://github.com/Wizard23333/DataWarehouse)
 
 ### 编译原理
 
@@ -100,6 +118,8 @@
 #### 未归类
 - [Kerr0220/Charlie-Chocolate-Factory](https://github.com/Kerr0220/Charlie-Chocolate-Factory)
 - [TongjiSSERollMan/Design_Pattern_2020](https://github.com/TongjiSSERollMan/Design_Pattern_2020)
+
+
 ### JavaEE
 
 #### 未归类
