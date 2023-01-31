@@ -42,6 +42,9 @@
 - [raetselhaftesKEN/SETerminal](https://github.com/raetselhaftesKEN/SETerminal)
 - [ZhichenRen/cocos2d-xGameDesign](https://github.com/ZhichenRen/cocos2d-xGameDesign)
 - [Wizard23333/SoulKnightTeamProject](https://github.com/Wizard23333/SoulKnightTeamProject)
+- [Xuedixuedi/ArenaofValor](https://github.com/Xuedixuedi/ArenaofValor)
+- [DOGGY-SAINT/SoulKnight](https://github.com/DOGGY-SAINT/SoulKnight)
+- [melonedo/fate-grand-rider](https://github.com/melonedo/fate-grand-rider)
 
 ### 数据结构
 
@@ -70,18 +73,35 @@
 
 ### 操作系统
 
+#### 未归类
+
+* [Ultrasty/memory-management](https://github.com/Ultrasty/memory-management)
+* [FrezCirno/FilesystemSimulator](https://github.com/FrezCirno/FilesystemSimulator)
+* [pancerZH/File-Management](https://github.com/pancerZH/File-Management)
+* [doubleZ0108/cherryOS](https://github.com/doubleZ0108/cherryOS)
+* [idustar/Stark-OS](https://github.com/idustar/Stark-OS)
+* [doubleZ0108/Operating-System](https://github.com/doubleZ0108/Operating-System)
+* [kangkang7777/OS-Course-Design](https://github.com/kangkang7777/OS-Course-Design)
+
 #### 2021 Summer 420287-操作系统课程设计
+
 - [li-letian/xv6-labs](https://github.com/li-letian/xv6-labs)
 - [renjiedai/xv6-labs-2020](https://github.com/renjiedai/xv6-labs-2020)
 - [jwyjohn/xv6-lab-2021](https://github.com/jwyjohn/xv6-lab-2021)
 
 #### 2020 Summer 420287-操作系统课程设计
+
 - [Kerr0220/YeezyOS](https://github.com/Kerr0220/YeezyOS)
 - [PlusOneZ/MIT-S6.S081-Lab-OSCD](https://github.com/PlusOneZ/MIT-S6.S081-Lab-OSCD)
 - [Wizard23333/UpUpOS](https://github.com/Wizard23333/UpUpOS)
 - [kefan-zheng/LightningOS](https://github.com/kefan-zheng/LightningOS)
 
+#### 2019 Summer 420287-操作系统课程设计
+
+* [TjFish/OS](https://github.com/TjFish/OS)
+
 #### 2020 Spring 420287-操作系统
+
 - [Kerr0220/Operating-System](https://github.com/Kerr0220/Operating-System)
 - [Major-333/OS_course_project](https://github.com/Major-333/OS_course_project)
 - [AnJT/Operating-system](https://github.com/AnJT/Operating-system)
@@ -95,11 +115,17 @@
 - [TeachMeDB/you-are-what-you-eat](https://github.com/orgs/TeachMeDB/repositories)
 - [muyi-TJ/DataBaseProject-Back-End](https://github.com/muyi-TJ/DataBaseProject-Back-End)
 - [Wizard23333/DB_BestHotel](https://github.com/Wizard23333/DB_BestHotel)
+- [Ultrasty/DB](https://github.com/Ultrasty/DB)
+- [skyleaworlder/ProTJec](https://github.com/skyleaworlder/ProTJec)
 
 ### 数仓
 
 #### 未归类
 - [Wizard23333/DataWarehouse](https://github.com/Wizard23333/DataWarehouse)
+- [Major-333/Data_WareHouse](https://github.com/Major-333/Data_WareHouse)
+- [Data-Warehouse-course-project](https://github.com/qisheng-jiang/Data-Warehouse-course-project)
+- [likicode/DataWareHouse](https://github.com/likicode/DataWareHouse)
+- [Major-333/BigDataWareHouse](Major-333/BigDataWareHouse)
 
 ### 编译原理
 
@@ -111,13 +137,17 @@
 ### 设计模式
 
 #### 2022 Autumn 420407-软件设计模式
+
 - [TeachMeDesignPattern/Slow6502](https://github.com/TeachMeDesignPattern/report_latex)
 #### 2021 Autumn 420407-软件设计模式
 - [PlusOneZ/CanFactory](https://github.com/PlusOneZ/CanFactory)
 - [muyi-TJ/2021Autumn-DesignPattern](https://github.com/muyi-TJ/2021Autumn-DesignPattern)
 #### 未归类
+
 - [Kerr0220/Charlie-Chocolate-Factory](https://github.com/Kerr0220/Charlie-Chocolate-Factory)
 - [TongjiSSERollMan/Design_Pattern_2020](https://github.com/TongjiSSERollMan/Design_Pattern_2020)
+- [doubleZ0108/Design-Pattern](https://github.com/doubleZ0108/Design-Pattern)
+- [NeverRaR/DesignPatterns](https://github.com/NeverRaR/DesignPatterns)
 
 
 ### JavaEE
@@ -130,7 +160,29 @@
 #### 2022 Spring 420406-主机软件与管理
 - [jwyjohn/42040601_MainframOperation](https://github.com/jwyjohn/42040601_MainframOperation)
 
+### 用户交互技术
+
+#### 未归类
+
+* [Dinghow/Misaki_AR](https://github.com/Dinghow/Misaki_AR)
+* [Wizard23333/HCI](https://github.com/Wizard23333/HCI)
+
+###  移动应用开发
+
+#### 未分类
+
+* [Xuedixuedi/swift-weibo-demo](https://github.com/Xuedixuedi/swift-weibo-demo)
+* [Wizard23333/Calculator_SwiftUI-Calculator_UIKIT](https://github.com/Wizard23333/Calculator_SwiftUI-Calculator_UIKIT)
+* [FrezCirno/sprite-snake](https://github.com/FrezCirno/sprite-snake)
+
+### 商务智能
+
+#### 2022 Spring 420410-商务智能案例分析
+
+* [Sry-maker/bibackend](https://github.com/Sry-maker/bibackend)
+
 ### 杂项
+
 - [jwyjohn/TJCovidDiary2022](https://github.com/jwyjohn/TJCovidDiary2022)
 
 ### And More ...
