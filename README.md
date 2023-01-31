@@ -34,7 +34,6 @@
 #### 未归类
 
 - [Baokker/Soul_Knight_Reproduction](https://github.com/Baokker/Soul_Knight_Reproduction)
-
 - [vegetable-yx/soul-knight](https://github.com/vegetable-yx/soul-knight)
 - [Spicy-Chicken-in-OOP2020/Soul-Knight](https://github.com/Spicy-Chicken-in-OOP2020/Soul-Knight)
 - [li-letian/Monopoly](https://github.com/li-letian/Monopoly)
@@ -80,13 +79,13 @@
 
 #### 未归类
 
-* [Ultrasty/memory-management](https://github.com/Ultrasty/memory-management)
-* [FrezCirno/FilesystemSimulator](https://github.com/FrezCirno/FilesystemSimulator)
-* [pancerZH/File-Management](https://github.com/pancerZH/File-Management)
-* [doubleZ0108/cherryOS](https://github.com/doubleZ0108/cherryOS)
-* [idustar/Stark-OS](https://github.com/idustar/Stark-OS)
-* [doubleZ0108/Operating-System](https://github.com/doubleZ0108/Operating-System)
-* [kangkang7777/OS-Course-Design](https://github.com/kangkang7777/OS-Course-Design)
+- [Ultrasty/memory-management](https://github.com/Ultrasty/memory-management)
+- [FrezCirno/FilesystemSimulator](https://github.com/FrezCirno/FilesystemSimulator)
+- [pancerZH/File-Management](https://github.com/pancerZH/File-Management)
+- [doubleZ0108/cherryOS](https://github.com/doubleZ0108/cherryOS)
+- [idustar/Stark-OS](https://github.com/idustar/Stark-OS)
+- [doubleZ0108/Operating-System](https://github.com/doubleZ0108/Operating-System)
+- [kangkang7777/OS-Course-Design](https://github.com/kangkang7777/OS-Course-Design)
 
 #### 2022 Spring 420287-操作系统
 
@@ -113,7 +112,7 @@
 
 #### 2019 Summer 420287-操作系统课程设计
 
-* [TjFish/OS](https://github.com/TjFish/OS)
+- [TjFish/OS](https://github.com/TjFish/OS)
 
 #### 2020 Spring 420287-操作系统
 
@@ -184,22 +183,22 @@
 
 #### 未归类
 
-* [Dinghow/Misaki_AR](https://github.com/Dinghow/Misaki_AR)
-* [Wizard23333/HCI](https://github.com/Wizard23333/HCI)
+- [Dinghow/Misaki_AR](https://github.com/Dinghow/Misaki_AR)
+- [Wizard23333/HCI](https://github.com/Wizard23333/HCI)
 
 ###  移动应用开发
 
 #### 未分类
 
-* [Xuedixuedi/swift-weibo-demo](https://github.com/Xuedixuedi/swift-weibo-demo)
-* [Wizard23333/Calculator_SwiftUI-Calculator_UIKIT](https://github.com/Wizard23333/Calculator_SwiftUI-Calculator_UIKIT)
-* [FrezCirno/sprite-snake](https://github.com/FrezCirno/sprite-snake)
+- [Xuedixuedi/swift-weibo-demo](https://github.com/Xuedixuedi/swift-weibo-demo)
+- [Wizard23333/Calculator_SwiftUI-Calculator_UIKIT](https://github.com/Wizard23333/Calculator_SwiftUI-Calculator_UIKIT)
+- [FrezCirno/sprite-snake](https://github.com/FrezCirno/sprite-snake)
 
 ### 商务智能
 
 #### 2022 Spring 420410-商务智能案例分析
 
-* [Sry-maker/bibackend](https://github.com/Sry-maker/bibackend)
+- [Sry-maker/bibackend](https://github.com/Sry-maker/bibackend)
 
 ### 杂项
 
