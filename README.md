@@ -32,6 +32,9 @@
 ### 面向对象
 
 #### 未归类
+
+- [Baokker/Soul_Knight_Reproduction](https://github.com/Baokker/Soul_Knight_Reproduction)
+
 - [vegetable-yx/soul-knight](https://github.com/vegetable-yx/soul-knight)
 - [Spicy-Chicken-in-OOP2020/Soul-Knight](https://github.com/Spicy-Chicken-in-OOP2020/Soul-Knight)
 - [li-letian/Monopoly](https://github.com/li-letian/Monopoly)
@@ -52,6 +55,7 @@
 - [jwyjohn/Jwy_DataStructureHomework](https://github.com/jwyjohn/Jwy_DataStructureHomework)
 - [vegetable-yx/CourseDesignOfDataStructure](https://github.com/vegetable-yx/CourseDesignOfDataStructure)
 - [renjiedai/DataStructureDesign](https://github.com/renjiedai/DataStructureDesign)
+- [Baokker/DataStructureCourseDesign2021](https://github.com/Baokker/DataStructureCourseDesign2021)
 
 #### 2020 Autumn 420285-数据结构课程设计
 - [PlusOneZ/DataStructureCourseDesign](https://github.com/PlusOneZ/DataStructureCourseDesign)
@@ -65,6 +69,7 @@
 
 #### 2022 Spring 420367-系统分析与设计
 - [TeachMe42036701](https://github.com/TeachMe42036701)
+- [Baokker/system_analysis_and_design_project](https://github.com/Baokker/system_analysis_and_design_project)
 
 #### 2021 Spring 420367-系统分析与设计
 - [wangwangwang23333/System-Analysis-Design](https://github.com/wangwangwang23333/System-Analysis-Design)
@@ -82,6 +87,16 @@
 * [idustar/Stark-OS](https://github.com/idustar/Stark-OS)
 * [doubleZ0108/Operating-System](https://github.com/doubleZ0108/Operating-System)
 * [kangkang7777/OS-Course-Design](https://github.com/kangkang7777/OS-Course-Design)
+
+#### 2022 Spring 420287-操作系统
+
+- [Baokker/elevator_project](https://github.com/Baokker/elevator_project)
+- [Baokker/page_management_project](https://github.com/Baokker/page_management_project)
+- [Baokker/file_system_project](https://github.com/Baokker/file_system_project)
+
+#### 2022 Summer 420287-操作系统课程设计
+
+- [Baokker/my_xv6_lab](https://github.com/Baokker/my_xv6_lab)
 
 #### 2021 Summer 420287-操作系统课程设计
 
@@ -118,7 +133,11 @@
 - [Ultrasty/DB](https://github.com/Ultrasty/DB)
 - [skyleaworlder/ProTJec](https://github.com/skyleaworlder/ProTJec)
 
-### 数仓
+### 数据仓库
+
+## 2023 Autumn 420408
+
+- [Baokker/data-warehouse-project](https://github.com/Baokker/data-warehouse-project)
 
 #### 未归类
 - [Wizard23333/DataWarehouse](https://github.com/Wizard23333/DataWarehouse)
@@ -139,6 +158,7 @@
 #### 2022 Autumn 420407-软件设计模式
 
 - [TeachMeDesignPattern/Slow6502](https://github.com/TeachMeDesignPattern/report_latex)
+- [https://github.com/Baokker/design-patterns-world-cup](https://github.com/Baokker/design-patterns-world-cup)
 #### 2021 Autumn 420407-软件设计模式
 - [PlusOneZ/CanFactory](https://github.com/PlusOneZ/CanFactory)
 - [muyi-TJ/2021Autumn-DesignPattern](https://github.com/muyi-TJ/2021Autumn-DesignPattern)
@@ -150,7 +170,7 @@
 - [NeverRaR/DesignPatterns](https://github.com/NeverRaR/DesignPatterns)
 
 
-### JavaEE
+### Java EE
 
 #### 未归类
 - [Tongji-Rubbish/JavaEE_Project](https://github.com/Tongji-Rubbish/JavaEE_Project)
