@@ -157,16 +157,27 @@
 #### 2022 Autumn 420407-软件设计模式
 
 - [TeachMeDesignPattern/Slow6502](https://github.com/TeachMeDesignPattern/report_latex)
-- [https://github.com/Baokker/design-patterns-world-cup](https://github.com/Baokker/design-patterns-world-cup)
+- [Baokker/design-patterns-world-cup](https://github.com/Baokker/design-patterns-world-cup)
 #### 2021 Autumn 420407-软件设计模式
+
 - [PlusOneZ/CanFactory](https://github.com/PlusOneZ/CanFactory)
 - [muyi-TJ/2021Autumn-DesignPattern](https://github.com/muyi-TJ/2021Autumn-DesignPattern)
-#### 未归类
+
+#### 2020 Autumn 420407-软件设计模式
 
 - [Kerr0220/Charlie-Chocolate-Factory](https://github.com/Kerr0220/Charlie-Chocolate-Factory)
-- [TongjiSSERollMan/Design_Pattern_2020](https://github.com/TongjiSSERollMan/Design_Pattern_2020)
 - [doubleZ0108/Design-Pattern](https://github.com/doubleZ0108/Design-Pattern)
+
+#### 2019 Autumn 420407-软件设计模式
+
+- [Freg-x/Design_Pattern2019](https://github.com/Freg-x/Design_Pattern2019)
+- [doubleZ0108/FamilyFarmSeaside](https://github.com/doubleZ0108/FamilyFarmSeaside)
+
+#### 未归类
+
+- [TongjiSSERollMan/Design_Pattern_2020](https://github.com/TongjiSSERollMan/Design_Pattern_2020)
 - [NeverRaR/DesignPatterns](https://github.com/NeverRaR/DesignPatterns)
+- [igululu/HappyTreeFriends](https://github.com/igululu/HappyTreeFriends)
 
 
 ### Java EE
