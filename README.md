@@ -141,9 +141,11 @@
 #### 未归类
 - [Wizard23333/DataWarehouse](https://github.com/Wizard23333/DataWarehouse)
 - [Major-333/Data_WareHouse](https://github.com/Major-333/Data_WareHouse)
+- [Shotray/DataWarehouse](https://github.com/Shotray/DataWarehouse)
 - [Data-Warehouse-course-project](https://github.com/qisheng-jiang/Data-Warehouse-course-project)
 - [likicode/DataWareHouse](https://github.com/likicode/DataWareHouse)
-- [Major-333/BigDataWareHouse](Major-333/BigDataWareHouse)
+- [Major-333/BigDataWareHouse](https://github.com/Major-333/BigDataWareHouse)
+- [LabmemNo004/AmazonMoviesDataWarehouse](https://github.com/LabmemNo004/AmazonMoviesDataWarehouse)
 
 ### 编译原理
 
@@ -210,6 +212,9 @@
 #### 2022 Spring 420410-商务智能案例分析
 
 - [Sry-maker/bibackend](https://github.com/Sry-maker/bibackend)
+- [LabmemNo004/BusinessIntelligence](https://github.com/LabmemNo004/BusinessIntelligence)
+- [wangwangwang23333/Business-Intelligence-Frontend](https://github.com/wangwangwang23333/Business-Intelligence-Frontend)
+- [B1ng-Yuqi/BusinessIntelligenceBackend](https://github.com/B1ng-Yuqi/BusinessIntelligenceBackend)
 
 ### 杂项
 
