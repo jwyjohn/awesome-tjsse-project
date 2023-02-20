@@ -75,6 +75,11 @@
 - [PlusOneZ/SAD](https://github.com/PlusOneZ/SAD)
 - [kefan-zheng/SAD](https://github.com/kefan-zheng/SAD)
 
+### SOA
+- [xiongnemo/soa_mashup](https://github.com/xiongnemo/soa_mashup)
+#### 未归类
+
+
 ### 操作系统
 
 #### 未归类
