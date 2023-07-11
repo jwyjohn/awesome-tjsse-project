@@ -92,6 +92,11 @@
 - [doubleZ0108/Operating-System](https://github.com/doubleZ0108/Operating-System)
 - [kangkang7777/OS-Course-Design](https://github.com/kangkang7777/OS-Course-Design)
 
+#### 2023 Spring 420287-操作系统
+- [MomoyamaSawa/OS_CrossScheduling](https://github.com/MomoyamaSawa/OS_CrossScheduling)
+- [MomoyamaSawa/OS_FileSystem](https://github.com/MomoyamaSawa/OS_FileSystem)
+- [MomoyamaSawa/OS_PageStorage](https://github.com/MomoyamaSawa/OS_PageStorage)
+
 #### 2022 Spring 420287-操作系统
 
 - [Baokker/elevator_project](https://github.com/Baokker/elevator_project)
@@ -203,6 +208,10 @@
 
 - [Dinghow/Misaki_AR](https://github.com/Dinghow/Misaki_AR)
 - [Wizard23333/HCI](https://github.com/Wizard23333/HCI)
+
+#### 2023 Spring 42034501-用户交互技术-沈莹
+
+-[HCI_JiShiNavigation](https://github.com/MomoyamaSawa/HCI_JiShiNavigation)
 
 ###  移动应用开发
 
