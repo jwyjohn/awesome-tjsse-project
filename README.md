@@ -55,6 +55,7 @@
 - [vegetable-yx/CourseDesignOfDataStructure](https://github.com/vegetable-yx/CourseDesignOfDataStructure)
 - [renjiedai/DataStructureDesign](https://github.com/renjiedai/DataStructureDesign)
 - [Baokker/DataStructureCourseDesign2021](https://github.com/Baokker/DataStructureCourseDesign2021)
+- [Gxyrious/DataStructureDesign](https://github.com/Gxyrious/DataStructureDesign)
 
 #### 2020 Autumn 420285-数据结构课程设计
 - [PlusOneZ/DataStructureCourseDesign](https://github.com/PlusOneZ/DataStructureCourseDesign)
@@ -106,6 +107,7 @@
 #### 2022 Summer 420287-操作系统课程设计
 
 - [Baokker/my_xv6_lab](https://github.com/Baokker/my_xv6_lab)
+- [Gxyrious/xv6-labs-2021](https://github.com/Gxyrious/xv6-labs-2021)
 
 #### 2021 Summer 420287-操作系统课程设计
 
@@ -144,9 +146,10 @@
 
 ### 数据仓库
 
-## 2023 Autumn 420408
+#### 2023 Autumn 420408
 
 - [Baokker/data-warehouse-project](https://github.com/Baokker/data-warehouse-project)
+- [Gxyrious/DataWarehouse](https://github.com/Gxyrious/DataWarehouse)
 
 #### 未归类
 - [Wizard23333/DataWarehouse](https://github.com/Wizard23333/DataWarehouse)
@@ -211,7 +214,8 @@
 
 #### 2023 Spring 42034501-用户交互技术-沈莹
 
--[HCI_JiShiNavigation](https://github.com/MomoyamaSawa/HCI_JiShiNavigation)
+- [HCI_JiShiNavigation](https://github.com/MomoyamaSawa/HCI_JiShiNavigation)
+- [Gxyrious/human-computer-interaction](https://github.com/Gxyrious/human-computer-interaction)
 
 ###  移动应用开发
 
@@ -220,6 +224,9 @@
 - [Xuedixuedi/swift-weibo-demo](https://github.com/Xuedixuedi/swift-weibo-demo)
 - [Wizard23333/Calculator_SwiftUI-Calculator_UIKIT](https://github.com/Wizard23333/Calculator_SwiftUI-Calculator_UIKIT)
 - [FrezCirno/sprite-snake](https://github.com/FrezCirno/sprite-snake)
+- [Gxyrious/Calculator](https://github.com/Gxyrious/Calculator)
+- [Gxyrious/SwiftJsonParser](https://github.com/Gxyrious/SwiftJsonParser)
+- [Gxyrious/FlowerCode](https://github.com/Gxyrious/FlowerCode)
 
 ### 商务智能
 
@@ -229,6 +236,10 @@
 - [LabmemNo004/BusinessIntelligence](https://github.com/LabmemNo004/BusinessIntelligence)
 - [wangwangwang23333/Business-Intelligence-Frontend](https://github.com/wangwangwang23333/Business-Intelligence-Frontend)
 - [B1ng-Yuqi/BusinessIntelligenceBackend](https://github.com/B1ng-Yuqi/BusinessIntelligenceBackend)
+
+#### 2023 Spring 商务智能
+
+- [cerebellumking/BusinessIntelligence](https://github.com/cerebellumking/BusinessIntelligence)
 
 ### 杂项
 
