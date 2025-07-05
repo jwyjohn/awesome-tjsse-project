@@ -1,10 +1,12 @@
 # tjsseXive
+
 同济大学软件学院本科编程项目参考索引
 
 ## 项目简介
+>
 > 未及前贤更勿疑 递相祖述复先谁
 > 别裁伪体亲风雅 转益多师是汝师
-> 
+>
 > —— 杜工部
 
 该项目旨在收集 GitHub 上同济大学软件学院同学涉及的课程中已开源的课程作业，其目的在于为以后的学弟学妹们提供一个参考，方便快速入门，写出更加优秀的代码。
@@ -22,12 +24,14 @@
 ### 高程
 
 #### 未归类
+
 - [Lu-Boyan/2021-Shenjian_C](https://github.com/Lu-Boyan/2021-Shenjian_C)
 - [APTXOUS/little_homework](https://github.com/APTXOUS/little_homework)
 - [Ultrasty/SJ-Homework-VS-Solution](https://github.com/Ultrasty/SJ-Homework-VS-Solution)
 - [rosmarinocc/CppBigHW](https://github.com/rosmarinocc/CppBigHW)
 - [NanmorX/10108002](https://github.com/NanmorX/10108002)
 - [SunshineTeen/SJ-programming-backup](https://github.com/SunshineTeen/SJ-programming-backup)
+- [summerapril5/tongji-software-engineering-projects-and-materials](https://github.com/summerapril5/tongji-software-engineering-projects-and-materials)
 
 ### 面向对象
 
@@ -51,6 +55,7 @@
 ### 数据结构
 
 #### 2021 Autumn 420285-数据结构课程设计
+
 - [jwyjohn/Jwy_DataStructureHomework](https://github.com/jwyjohn/Jwy_DataStructureHomework)
 - [vegetable-yx/CourseDesignOfDataStructure](https://github.com/vegetable-yx/CourseDesignOfDataStructure)
 - [renjiedai/DataStructureDesign](https://github.com/renjiedai/DataStructureDesign)
@@ -58,20 +63,22 @@
 - [Gxyrious/DataStructureDesign](https://github.com/Gxyrious/DataStructureDesign)
 
 #### 2020 Autumn 420285-数据结构课程设计
+
 - [PlusOneZ/DataStructureCourseDesign](https://github.com/PlusOneZ/DataStructureCourseDesign)
 - [yilish/TJSSE_DataStructure_Design](https://github.com/yilish/TJSSE_DataStructure_Design)
 - [potassiummmm/DataStructure](https://github.com/potassiummmm/DataStructure)
 - [muyi-TJ/2020-Autumn-DataStructure-Design](https://github.com/muyi-TJ/2020-Autumn-DataStructure-Design)
 - [kefan-zheng/Data-Structure](https://github.com/kefan-zheng/Data-Structure)
 
-
 ### SAD
 
 #### 2022 Spring 420367-系统分析与设计
+
 - [TeachMe42036701](https://github.com/TeachMe42036701)
 - [Baokker/system_analysis_and_design_project](https://github.com/Baokker/system_analysis_and_design_project)
 
 #### 2021 Spring 420367-系统分析与设计
+
 - [wangwangwang23333/System-Analysis-Design](https://github.com/wangwangwang23333/System-Analysis-Design)
 - [PlusOneZ/SAD](https://github.com/PlusOneZ/SAD)
 - [kefan-zheng/SAD](https://github.com/kefan-zheng/SAD)
@@ -79,6 +86,7 @@
 ### SOA
 
 #### 未归类
+
 - [xiongnemo/soa_mashup](https://github.com/xiongnemo/soa_mashup)
 
 ### 操作系统
@@ -94,6 +102,7 @@
 - [kangkang7777/OS-Course-Design](https://github.com/kangkang7777/OS-Course-Design)
 
 #### 2023 Spring 420287-操作系统
+
 - [MomoyamaSawa/OS_CrossScheduling](https://github.com/MomoyamaSawa/OS_CrossScheduling)
 - [MomoyamaSawa/OS_FileSystem](https://github.com/MomoyamaSawa/OS_FileSystem)
 - [MomoyamaSawa/OS_PageStorage](https://github.com/MomoyamaSawa/OS_PageStorage)
@@ -135,9 +144,11 @@
 - [Wizard23333/OS_Memory_Management](https://github.com/Wizard23333/OS_Memory_Management)
 - [Wizard23333/OS_Elevator_Stimulater](https://github.com/Wizard23333/OS_Elevator_Stimulater)
 - [kefan-zheng/OS](https://github.com/kefan-zheng/OS)
+
 ### 数据库
 
 #### 未归类
+
 - [TeachMeDB/you-are-what-you-eat](https://github.com/orgs/TeachMeDB/repositories)
 - [muyi-TJ/DataBaseProject-Back-End](https://github.com/muyi-TJ/DataBaseProject-Back-End)
 - [Wizard23333/DB_BestHotel](https://github.com/Wizard23333/DB_BestHotel)
@@ -152,6 +163,7 @@
 - [Gxyrious/DataWarehouse](https://github.com/Gxyrious/DataWarehouse)
 
 #### 未归类
+
 - [Wizard23333/DataWarehouse](https://github.com/Wizard23333/DataWarehouse)
 - [Major-333/Data_WareHouse](https://github.com/Major-333/Data_WareHouse)
 - [Shotray/DataWarehouse](https://github.com/Shotray/DataWarehouse)
@@ -163,6 +175,7 @@
 ### 编译原理
 
 #### 2021 Autumn 420343-编译原理
+
 - [42034301-5](https://github.com/42034301-5)
 - [wangwangwang23333/Compile-Homework](https://github.com/wangwangwang23333/Compile-Homework)
 - [muyi-TJ/Complien-Principle-LL1](https://github.com/muyi-TJ/Complien-Principle-LL1)
@@ -173,6 +186,7 @@
 
 - [TeachMeDesignPattern/Slow6502](https://github.com/TeachMeDesignPattern/report_latex)
 - [Baokker/design-patterns-world-cup](https://github.com/Baokker/design-patterns-world-cup)
+
 #### 2021 Autumn 420407-软件设计模式
 
 - [PlusOneZ/CanFactory](https://github.com/PlusOneZ/CanFactory)
@@ -194,15 +208,16 @@
 - [NeverRaR/DesignPatterns](https://github.com/NeverRaR/DesignPatterns)
 - [igululu/HappyTreeFriends](https://github.com/igululu/HappyTreeFriends)
 
-
 ### Java EE
 
 #### 未归类
+
 - [Tongji-Rubbish/JavaEE_Project](https://github.com/Tongji-Rubbish/JavaEE_Project)
 
 ### 大型机
 
 #### 2022 Spring 420406-主机软件与管理
+
 - [jwyjohn/42040601_MainframOperation](https://github.com/jwyjohn/42040601_MainframOperation)
 
 ### 用户交互技术
@@ -217,7 +232,7 @@
 - [HCI_JiShiNavigation](https://github.com/MomoyamaSawa/HCI_JiShiNavigation)
 - [Gxyrious/human-computer-interaction](https://github.com/Gxyrious/human-computer-interaction)
 
-###  移动应用开发
+### 移动应用开发
 
 #### 未分类
 
@@ -245,6 +260,6 @@
 
 - [jwyjohn/TJCovidDiary2022](https://github.com/jwyjohn/TJCovidDiary2022)
 
-### And More ...
+### And More
 
 ## [Hall of Fame](https://github.com/jwyjohn/tjsseXive/blob/main/HALL_OF_FAME.md)
